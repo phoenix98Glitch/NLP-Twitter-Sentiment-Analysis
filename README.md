@@ -15,4 +15,4 @@
 8. Create a pipeline to remove stop-words, punctuation, and perform tokenization
 9. Understand the theory and intuition behind Naive Bayes classifiers
 
-# Trained a Naive Bayes, Logistic Regression, Decision Tree Model and assessed their model performance.
+# Trained a Naive Bayes, Logistic Regression, XGBoost Model, ensembled all 3 models and assessed their model performance.
