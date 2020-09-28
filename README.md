@@ -14,6 +14,5 @@
 7. Perform Count Vectorization (Tokenization)
 8. Create a pipeline to remove stop-words, punctuation, and perform tokenization
 9. Understand the theory and intuition behind Naive Bayes classifiers
-10. Train a Naive Bayes Classifier
-11. Assess trained model performance
 
+# Trained a Naive Bayes, Logistic Regression, Decision Tree Model and assessed theird model performance.
